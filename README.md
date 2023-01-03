@@ -1,2 +1,1 @@
 # NasaSpaceAppsCairo
-Variable Stars Visualizer
